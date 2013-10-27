@@ -1,6 +1,6 @@
 #[X-editable for WordPress](https://github.com/brasofilo/x-editable-for-wordpress)
 
-Testing how to use X-editable inside WordPress admin area.
+Testing how to use [X-editable](http://vitalets.github.io/x-editable/index.html) inside WordPress admin area.
 
  - The `pk` value seem not to matter much, but it is essential to have it, simply put `1` for all fields
 
